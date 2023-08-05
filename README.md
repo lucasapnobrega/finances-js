@@ -1,7 +1,7 @@
 # finances-js
 Projeto Finances utlizando HTML, CSS e JS com json-server
 
-- Utilização do json-server(que serve como um back-end, simulando um banco de dados das transações)
+- Utilização do json-server(que serve como um back-end, simulando um banco de dados das transações) (arquivo db.json)
 
 - ESModules
 

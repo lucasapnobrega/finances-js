@@ -1,0 +1,24 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "name": "Salário",
+      "amount": 5000
+    },
+    {
+      "name": "Supermecado",
+      "amount": -250,
+      "id": 2
+    },
+    {
+      "name": "Internet",
+      "amount": -100,
+      "id": 3
+    },
+    {
+      "name": "Conta de Luz",
+      "amount": -300,
+      "id": 5
+    }
+  ]
+}
